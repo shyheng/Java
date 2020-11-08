@@ -1,0 +1,6 @@
+object的方法
+protected Object clone() //负责对象克隆
+int hashCode() //获取对象哈希值的一个方法
+boolean equals(Object obj) //判断两个对象是否相等
+string toString() //将对象转换成字符串形式
+protected void finalize() //垃圾回收器负责调用方法

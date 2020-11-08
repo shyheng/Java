@@ -1,0 +1,24 @@
+package和import机制
+
+package是关键字，后面加包名
+
+import使用
+导入需要的类
+调用其他的类
+import 包名（可以用*）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
