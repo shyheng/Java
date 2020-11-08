@@ -1,0 +1,29 @@
+ *
+ *       掌握
+ *      Deprecated 注释@Deprecated的程序元素是程序员不鼓励使用的程序元素，
+ *      通常是因为它是危险的，或者因为存在更好的替代方法。
+ *
+ *      掌握
+ *      Override 表示方法声明旨在覆盖超类型中的方法声明。
+ *
+ *      了解
+ *      SuppressWarnings 表示在注释元素（以及注释元素中包含的所有程序元素）
+ *      中应该抑制命名的编译器警告。
+
+
+         @Target 元注解， (ElementType.METHOD)，固定在哪个地方注解，方法上
+ *  eg   @Target(value={CONSTRUCTOR, FIELD, LOCAL_VARIABLE, METHOD, PACKAGE, MODULE, PARAMETER, TYPE})
+ *       表示该注解可以出现在
+ *       构造方法上，字段上，局部变量上，类上
+
+ *      @Retention 这是一个元注解 (RetentionPolicy.SOURCE) ，只被保留在什么地方，java中
+ *
+ *  eg  @Retention(RetentionPolicy.SOURCE)表示该注解只保存在java源文件中
+ *  1   @Retention(RetentionPolicy.CLASS)表示该注解被保存在class文件中
+ *  2   @Retention(RetentionPolicy.RUNTIME)表示给被保存在class文件中，并且可被反射机制所读取
+ *
+ value属性很常用，因为在调用的时候，可以简写，不用写属性名，直接写值
+
+  *    数组和枚举在注解中，出现紫色就是枚举
+  *
+  *   大括号就是代表数组，紫色代表枚举
