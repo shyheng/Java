@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c40889d-b950-4df6-ade2-f9375ae6c860" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bDQX1BRuHUgJWjFWo6Evwxz0uv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Exception12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception12" />
+      <module name="异常" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exception6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception6" />
+      <module name="异常" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionTrst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionTrst" />
+      <module name="异常" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="异常作业.数组作业.Test" />
+      <module name="异常" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="异常作业.数组作业.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="异常作业.作业.test" />
+      <module name="异常" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="异常作业.作业.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Exception12" />
+        <item itemvalue="Application.ExceptionTrst" />
+        <item itemvalue="Application.Exception6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c40889d-b950-4df6-ade2-f9375ae6c860" name="Default Changelist" comment="" />
+      <created>1588164223663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588164223663</updated>
+      <workItem from="1588164232448" duration="373000" />
+      <workItem from="1588227258392" duration="1180000" />
+      <workItem from="1588241452560" duration="1627000" />
+      <workItem from="1588320069116" duration="1199000" />
+      <workItem from="1588340793049" duration="1968000" />
+      <workItem from="1588427011820" duration="4169000" />
+      <workItem from="1588485928127" duration="1858000" />
+      <workItem from="1588504601317" duration="3879000" />
+      <workItem from="1588521251039" duration="623000" />
+      <workItem from="1588575847156" duration="596000" />
+      <workItem from="1588586169130" duration="1155000" />
+      <workItem from="1588601240797" duration="102000" />
+      <workItem from="1588606912297" duration="4167000" />
+      <workItem from="1588659253237" duration="17105000" />
+      <workItem from="1588692232065" duration="2931000" />
+      <workItem from="1588744472910" duration="686000" />
+      <workItem from="1588747289891" duration="5319000" />
+      <workItem from="1588758344731" duration="8865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="932" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1588762419184">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state x="932" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1536.814@0.0.1536.814" timestamp="1588762419184" />
+    <state x="930" y="169" key="FileChooserDialogImpl" timestamp="1588747205167">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state x="930" y="169" key="FileChooserDialogImpl/0.0.1536.814@0.0.1536.814" timestamp="1588747205167" />
+    <state width="782" height="192" key="GridCell.Tab.0.bottom" timestamp="1588767300243">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state width="782" height="192" key="GridCell.Tab.0.bottom/0.0.1536.814@0.0.1536.814" timestamp="1588767300243" />
+    <state width="782" height="192" key="GridCell.Tab.0.center" timestamp="1588767300243">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state width="782" height="192" key="GridCell.Tab.0.center/0.0.1536.814@0.0.1536.814" timestamp="1588767300243" />
+    <state width="782" height="192" key="GridCell.Tab.0.left" timestamp="1588767300243">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state width="782" height="192" key="GridCell.Tab.0.left/0.0.1536.814@0.0.1536.814" timestamp="1588767300243" />
+    <state width="782" height="192" key="GridCell.Tab.0.right" timestamp="1588767300243">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state width="782" height="192" key="GridCell.Tab.0.right/0.0.1536.814@0.0.1536.814" timestamp="1588767300243" />
+    <state width="1492" height="255" key="GridCell.Tab.1.bottom" timestamp="1588487811099">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state width="1492" height="255" key="GridCell.Tab.1.bottom/0.0.1536.814@0.0.1536.814" timestamp="1588487811099" />
+    <state width="1492" height="255" key="GridCell.Tab.1.center" timestamp="1588487811099">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state width="1492" height="255" key="GridCell.Tab.1.center/0.0.1536.814@0.0.1536.814" timestamp="1588487811099" />
+    <state width="1492" height="255" key="GridCell.Tab.1.left" timestamp="1588487811099">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state width="1492" height="255" key="GridCell.Tab.1.left/0.0.1536.814@0.0.1536.814" timestamp="1588487811099" />
+    <state width="1492" height="255" key="GridCell.Tab.1.right" timestamp="1588487811099">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state width="1492" height="255" key="GridCell.Tab.1.right/0.0.1536.814@0.0.1536.814" timestamp="1588487811099" />
+    <state x="848" y="145" width="540" height="524" key="StructurePopup" timestamp="1588686928942">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state x="848" y="145" width="540" height="524" key="StructurePopup/0.0.1536.814@0.0.1536.814" timestamp="1588686928942" />
+    <state x="780" y="179" key="run.anything.popup" timestamp="1588430771104">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state x="780" y="179" key="run.anything.popup/0.0.1536.814@0.0.1536.814" timestamp="1588430771104" />
+    <state x="786" y="135" width="672" height="678" key="search.everywhere.popup" timestamp="1588686832720">
+      <screen x="0" y="0" width="1536" height="814" />
+    </state>
+    <state x="786" y="135" width="672" height="678" key="search.everywhere.popup/0.0.1536.814@0.0.1536.814" timestamp="1588686832720" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../Program Files/Java/jdk-13.0.2/lib/src.zip!/java.base/java/lang/Object.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
